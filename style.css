@@ -1,0 +1,35 @@
+body{
+    text-align: center;
+}
+h1{
+    font-size: medium;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#random{
+    background-color: rgb(228, 72, 103);
+}
+#mycarousel{
+    background-color: darkcyan;
+}
+#chatbox{
+    background-color:rgb(91, 148, 180);
+}
+.line{
+    height: 6px;
+    width: 70px;
+    background-color: white;
+    margin: 8px auto;
+}
+img{
+    height: 400px;
+}
+#mycarousel img{
+    height: 300px;
+    margin-top: 35px;
+}
+.carousel-inner p{
+    margin-top: 15px;
+    color:rgb(253, 192, 116);
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
